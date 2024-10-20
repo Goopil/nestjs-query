@@ -18,7 +18,7 @@
     "@nestjs/jwt": "8.0.1",
     "@nestjs/mongoose": "9.2.0",
     "@nestjs/passport": "8.2.2",
-    "@nestjs/platform-express": "8.4.7",
+    "@nestjs/platform-express": "10.4.5",
     "@nestjs/sequelize": "8.0.1",
     "apollo-server-core": "3.10.2",
     "apollo-server-express": "3.10.2",
